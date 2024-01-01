@@ -1,12 +1,9 @@
-{
-  "extends": [
-    "config:recommended",
-    ":pinDigestsDisabled"
-  ],
-  "packageRules": [{
-    "packageNames": ["whitesource/renovate"],
-    "versioning": "semver",
-    "automerge": true
-  }],
+
+    "config:recommended"
+  
+  "packageRules":
+    "packageNames":
+    "versioning":
+    "automerge": 
   "ignorePaths": []
 }
