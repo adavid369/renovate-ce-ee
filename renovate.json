@@ -4,9 +4,4 @@
     ":pinDigestsDisabled"
   ],
   "packageRules": [{
-    "packageNames": ["ghcr.io/mend/renovate-ce"],
-    "versioning": "docker",
-    "automerge": true
-  }],
-  "ignorePaths": []
-}
+    "packageNames": ["ghcr.io/mend/renovate-ce"]
