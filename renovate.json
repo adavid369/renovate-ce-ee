@@ -1,7 +1,5 @@
 {
   "extends": [
     "config:recommended",
-    ":pinDigestsDisabled"
-  ],
   "packageRules": [{
-    "packageNames": ["ghcr.io/mend/renovate-ce"]
+    "packageNames":[HEDGE]
